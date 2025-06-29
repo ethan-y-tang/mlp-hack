@@ -51,7 +51,7 @@ Grab the latest script file here:
 ## 📢 Disclaimer
 
 This script is for educational and personal use only. Use responsibly and respect the terms of service of Heritage Chinese.
-I am never held responsible for any type of trouble or punishment you get into by using this code.
+I am not responsible for any trouble or punishment you may encounter by using this code.
 
 ---
 
