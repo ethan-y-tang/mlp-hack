@@ -17,7 +17,7 @@ Make sure you have downloaded the latest version of Tampermonkey or Greasemonkey
 
 Grab the latest script file here:
 
-[heritage-chinese-cheat.user.js](https://greasyfork.org/scripts/541132.user.js)
+[hack.user.js]([https://greasyfork.org/scripts/541132.user.js](https://github.com/ethan-y-tang/mlp-hack/blob/main/hack.user.js))
 
 ---
 
