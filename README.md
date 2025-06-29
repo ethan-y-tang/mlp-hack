@@ -9,7 +9,7 @@
 Click the button below to install directly from GreasyFork:
 Make sure you have downloaded the latest version of Tampermonkey or Greasemonkey! If not, refer below.
 
-[![Install from GreasyFork](https://img.shields.io/badge/Install-From-GreasyFork-brightgreen?style=for-the-badge&logo=greasyfork)](https://greasyfork.org/en/scripts/541132-heritage-chinese-cheat)
+[![Install from GreasyFork](https://img.shields.io/badge/Install-Code-brightgreen?style=for-the-badge&logo=greasyfork)](https://greasyfork.org/en/scripts/541132-heritage-chinese-cheat)
 
 ---
 
