@@ -44,6 +44,15 @@ window.addEventListener("load", () => {
     if (hint) hint.style.display = "none";
   });
 
+  registerCommand("Show continue button", () => {
+    window.document
+      .querySelector("#continue-btn")
+      .style.display = "inline-block";
+
+    const hint = window.document.querySelector("#hint");
+    if (hint) hint.style.display = "none";
+  });
+
   registerCommand("Bypass Character Check", () =>
     win.submitAnswer(
       document.querySelector("#answer").value,
