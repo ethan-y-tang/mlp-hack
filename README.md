@@ -7,8 +7,9 @@
 ## 🚀 Quick Install
 
 Click the button below to install directly from GreasyFork:
+Make sure you have downloaded the latest version of Tampermonkey or Greasemonkey! If not, refer below.
 
-[![Install in Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-brightgreen?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/en/scripts/541132-heritage-chinese-cheat)
+[![Install from GreasyFork](https://img.shields.io/badge/Install-GreasyFork-brightgreen?style=for-the-badge&logo=greasyfork)](https://greasyfork.org/en/scripts/541132-heritage-chinese-cheat)
 
 ---
 
@@ -26,12 +27,14 @@ Grab the latest script file here:
    - [Tampermonkey for Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)  
    - [Tampermonkey for Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
 
-2. **Click the green "Install in Tampermonkey" button above** to add the script directly from GreasyFork.  
+2. **Click the green "Install from GreasyFork" button above** to add the script directly from GreasyFork.  
    OR  
    **Download the `.user.js` file manually** and then drag-and-drop it into Tampermonkey dashboard.
 
 3. Head to [heritagechinese.com](https://heritagechinese.com), and the script will load automatically.  
-   Use the Tampermonkey menu (top-right extension icon) to access the cheats like "Skip Activity" and more.
+   It is automatically injected into the code. 
+   To skip an activity, click the activity and type in the needed quantities.
+   Most buttons only work on their designated pages.
 
 ---
 
@@ -48,6 +51,7 @@ Grab the latest script file here:
 ## 📢 Disclaimer
 
 This script is for educational and personal use only. Use responsibly and respect the terms of service of Heritage Chinese.
+I am never held responsible for any type of trouble or punishment you get into by using this code.
 
 ---
 
