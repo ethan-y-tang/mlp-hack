@@ -6,9 +6,9 @@
 
 ## 🚀 Quick Install
 
-Click the button below to install directly in Tampermonkey:
+Click the button below to install directly from GreasyFork:
 
-[![Install in Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-brightgreen?style=for-the-badge&logo=tampermonkey)](https://raw.githubusercontent.com/yourusername/heritage-chinese-cheat/main/heritage-chinese-cheat.user.js)
+[![Install in Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-brightgreen?style=for-the-badge&logo=tampermonkey)](https://greasyfork.org/en/scripts/541132-heritage-chinese-cheat)
 
 ---
 
@@ -16,7 +16,7 @@ Click the button below to install directly in Tampermonkey:
 
 Grab the latest script file here:
 
-[heritage-chinese-cheat.user.js](https://raw.githubusercontent.com/yourusername/heritage-chinese-cheat/main/heritage-chinese-cheat.user.js)
+[heritage-chinese-cheat.user.js](https://greasyfork.org/scripts/541132.user.js)
 
 ---
 
@@ -26,7 +26,7 @@ Grab the latest script file here:
    - [Tampermonkey for Chrome](https://tampermonkey.net/?ext=dhdg&browser=chrome)  
    - [Tampermonkey for Firefox](https://tampermonkey.net/?ext=dhdg&browser=firefox)
 
-2. **Click the green "Install in Tampermonkey" button above** to add the script directly.  
+2. **Click the green "Install in Tampermonkey" button above** to add the script directly from GreasyFork.  
    OR  
    **Download the `.user.js` file manually** and then drag-and-drop it into Tampermonkey dashboard.
 
@@ -52,4 +52,4 @@ This script is for educational and personal use only. Use responsibly and respec
 ---
 
 Made with ❤️ by @ethan-y-tang  
-[GitHub Repo](https://github.com/yourusername/heritage-chinese-cheat)
+[GitHub Repo](https://github.com/ethan-y-tang/heritage-chinese-cheat)
