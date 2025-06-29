@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=heritagechinese.com
 // @grant        GM_registerMenuCommand
 // @grant        unsafeWindow
-// @downloadURL https://update.greasyfork.org/scripts/461138/Heritage%20Chinese%20Cheat.user.js
-// @updateURL https://update.greasyfork.org/scripts/461138/Heritage%20Chinese%20Cheat.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/541132/Heritage%20Chinese%20Cheat.user.js
+// @updateURL https://update.greasyfork.org/scripts/541132/Heritage%20Chinese%20Cheat.meta.js
 // ==/UserScript==
 
 window.addEventListener("load", () => {
